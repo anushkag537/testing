@@ -1,3 +1,3 @@
 # testing
 
-creatig pull requests
+creating pull requests and learning more
